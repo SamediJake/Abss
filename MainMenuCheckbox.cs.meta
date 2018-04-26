@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f36644c4e75bbe42b6e392ffee034bf
+timeCreated: 1455477877
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sprOn: {fileID: 2800000, guid: 31ce66151091acf4ea94c90ffbe6a0b8, type: 3}
+  - sprOff: {fileID: 2800000, guid: 8096f42676557a94f87beddb5acbb8c7, type: 3}
+  - renderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
